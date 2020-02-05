@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="55px" viewBox="0 0 56 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico_protect</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21.3733333,24.9277211 L21.3733333,20.3443878 C21.3733333,16.5474301 24.5073401,13.4693878 28.3733333,13.4693878 C32.2393266,13.4693878 35.3733333,16.5474301 35.3733333,20.3443878 L35.3733333,24.9277211 L37.7066667,24.9277211 L37.7066667,40.9693878 L19.04,40.9693878 L19.04,24.9277211 L21.3733333,24.9277211 Z M23.7066667,24.9277211 L33.04,24.9277211 L33.04,20.3443878 C33.04,17.8130827 30.9506622,15.7610544 28.3733333,15.7610544 C25.7960045,15.7610544 23.7066667,17.8130827 23.7066667,20.3443878 L23.7066667,24.9277211 Z" id="path-1"></path>
+    </defs>
+    <g id="Verstka" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="_01_Main" transform="translate(-779.000000, -208.000000)">
+            <g id="TABLO" transform="translate(714.000000, 191.000000)">
+                <g id="ico_protect" transform="translate(65.000000, 17.000000)">
+                    <ellipse id="sphere-copy-7" fill="#FFFFFF" cx="28" cy="27.5" rx="28" ry="27.5"></ellipse>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="lock_icon-copy" fill="#77CF5E" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
