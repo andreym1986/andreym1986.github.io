@@ -353,6 +353,8 @@ h1 span {color: #fff;background-image: linear-gradient(120deg, #222 0%, #222 90%
 #footer .container {border-top: 1px solid #333;padding:30px 0;}
 #footer .container > p {float:left;}
 #footer .container > div {float:right;}
+#footer a {color:#ff3366}
+#footer a:hover {color:#ff3366;text-decoration: underline}
 
 @media (max-width:599px) {
 #footer {text-align:center;}

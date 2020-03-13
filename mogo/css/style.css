@@ -114,6 +114,8 @@ hr {
   color: #fff;
   display: block;
   text-decoration: none;
+  cursor: pointer;
+  transition: opacity .2s linear
 }
 
 .header.fixed .header__logo {
@@ -122,6 +124,7 @@ hr {
 
 .header__logo:hover {
   text-decoration: none;
+  opacity: 0.8
 }
 
 .header.fixed {
@@ -1214,6 +1217,7 @@ hr {
 }
 
 
+
 /* subscribe */
 
 .subscribe {
@@ -1362,9 +1366,8 @@ hr {
   font-size: 14px;
 }
 
-.copirating span {
-  color: red
-}
+.copirating a {color:red;text-decoration: none}
+.copirating a:hover {color:red; text-decoration: underline}
 
 
 /* slick */
